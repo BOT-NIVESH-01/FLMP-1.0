@@ -1,1 +1,1 @@
-This Is The FLMP Portal Designed To Make faculty leave Approval Pipeline More Easier To Handle
+This is updated Faculty Leave Management System pipeline.
